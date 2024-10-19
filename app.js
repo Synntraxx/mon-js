@@ -75,7 +75,6 @@ function showScore() {
     restartButton.onclick = () => restartQuiz(); // Ajouter une fonction pour recommencer
 }
 
-
 // Fonction pour réinitialiser le quiz
 function restartQuiz() {
     score = 0;
